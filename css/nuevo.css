@@ -106,10 +106,7 @@ header{background-color:rgb(66, 224, 179); margin-left: 0%;
 }
 
 .img-proy{
-    width: 100%;
-    border-style: solid;
-    border-color: #2ebbeb;
-    border-radius: 3%;
+    width: 50%;
 }
 
 .acerca {
